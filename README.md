@@ -1,2 +1,2 @@
 # multiplex_synthesis
-Histology data analysis code for the multiplex synthesis paper
+This repository contains source codes for the histology data analysis in the multiplex synthesis paper.
