@@ -1,0 +1,17 @@
+# Data files
+*.csv
+*.xlsx
+*.tsv
+
+# Figure outputs
+*.png
+*.pdf
+*.svg
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System
+.DS_Store
