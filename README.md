@@ -1,2 +1,2 @@
 # multiplex_synthesis
-This repository contains source codes for the histology data analysis in the multiplex synthesis paper.
+This repository contains cellprofiler pipeline files as well as data analysis source codes for histology analysis in the multiplex synthesis paper.
