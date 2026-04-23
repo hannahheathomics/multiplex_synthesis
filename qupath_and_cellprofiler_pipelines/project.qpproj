@@ -1,0 +1,1309 @@
+{
+  "version": "0.7.0",
+  "createTimestamp": 1776881689156,
+  "modifyTimestamp": 1776881689156,
+  "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Data_Analysis_Hub/project.qpproj",
+  "lastID": 80,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI_13R_20X_02_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI_13R_20X_02_CH1.tif - SBI_13R_20X_02_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 1,
+      "randomizedName": "8707b081-c7cb-4177-8f6a-45e92d9620db",
+      "imageName": "SBI_13R_20X_02_CH1.tif - SBI_13R_20X_02_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI_26L_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI_26L_20X_03_CH1.tif - SBI_26L_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 5,
+      "randomizedName": "3ee43142-2e10-4414-ba60-10214d271de7",
+      "imageName": "SBI_26L_20X_03_CH1.tif - SBI_26L_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI_32N_20X_02_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI_32N_20X_02_CH1.tif - SBI_32N_20X_02_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 9,
+      "randomizedName": "40eeb70d-e6ed-45d1-8f23-0862e546572c",
+      "imageName": "SBI_32N_20X_02_CH1.tif - SBI_32N_20X_02_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI+Ibu_11B_20X_02_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI+Ibu_11B_20X_02_CH1.tif - SBI+Ibu_11B_20X_02_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 13,
+      "randomizedName": "f62af015-6031-4e81-abf9-d355b378b4f3",
+      "imageName": "SBI+Ibu_11B_20X_02_CH1.tif - SBI+Ibu_11B_20X_02_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI+Ibu_16N_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI+Ibu_16N_20X_03_CH1.tif - SBI+Ibu_16N_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 17,
+      "randomizedName": "57d0f797-8485-4d06-9f86-24b96e4c5211",
+      "imageName": "SBI+Ibu_16N_20X_03_CH1.tif - SBI+Ibu_16N_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI+Ibu_37R_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI+Ibu_37R_20X_03_CH1.tif - SBI+Ibu_37R_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 21,
+      "randomizedName": "cf710700-9ea3-49f5-865b-927fcf793746",
+      "imageName": "SBI+Ibu_37R_20X_03_CH1.tif - SBI+Ibu_37R_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI+Ibu+C_1R_20X_02_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI+Ibu+C_1R_20X_02_CH1.tif - SBI+Ibu+C_1R_20X_02_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 25,
+      "randomizedName": "1ccb9942-08f1-474a-8c86-587b8373b95b",
+      "imageName": "SBI+Ibu+C_1R_20X_02_CH1.tif - SBI+Ibu+C_1R_20X_02_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI+Ibu+C_7B_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI+Ibu+C_7B_20X_03_CH1.tif - SBI+Ibu+C_7B_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 29,
+      "randomizedName": "0401899e-56d7-43d1-bf49-8cfef366651d",
+      "imageName": "SBI+Ibu+C_7B_20X_03_CH1.tif - SBI+Ibu+C_7B_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/SBI+Ibu+C_19B_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "SBI+Ibu+C_19B_20X_03_CH1.tif - SBI+Ibu+C_19B_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 33,
+      "randomizedName": "1129355e-83b3-470b-b34c-444fe468732b",
+      "imageName": "SBI+Ibu+C_19B_20X_03_CH1.tif - SBI+Ibu+C_19B_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured_6L_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured_6L_20X_03_CH1.tif - Uninjured_6L_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 37,
+      "randomizedName": "018abedd-7cd8-4c4d-af7b-1716797ab929",
+      "imageName": "Uninjured_6L_20X_03_CH1.tif - Uninjured_6L_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured_10L_20x_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured_10L_20x_03_CH1.tif - Uninjured_10L_20x_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 41,
+      "randomizedName": "af0ad8aa-660b-43c9-98b5-a9554efd81b5",
+      "imageName": "Uninjured_10L_20x_03_CH1.tif - Uninjured_10L_20x_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured_24N_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured_24N_20X_03_CH1.tif - Uninjured_24N_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 45,
+      "randomizedName": "47d25e00-21f3-4bd6-aa7b-7fe21f22a661",
+      "imageName": "Uninjured_24N_20X_03_CH1.tif - Uninjured_24N_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured_35B_20X_01_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured_35B_20X_01_CH1.tif - Uninjured_35B_20X_01_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 49,
+      "randomizedName": "51b1737b-77ed-4833-9419-52ab123cf2da",
+      "imageName": "Uninjured_35B_20X_01_CH1.tif - Uninjured_35B_20X_01_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured+Ibu_14L_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured+Ibu_14L_20X_03_CH1.tif - Uninjured+Ibu_14L_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 53,
+      "randomizedName": "23661c62-db7d-480a-9751-e0ed82c8b087",
+      "imageName": "Uninjured+Ibu_14L_20X_03_CH1.tif - Uninjured+Ibu_14L_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured+Ibu_20N_20X_02_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured+Ibu_20N_20X_02_CH1.tif - Uninjured+Ibu_20N_20X_02_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 57,
+      "randomizedName": "00696871-299f-4fc9-9de9-f90f793900c1",
+      "imageName": "Uninjured+Ibu_20N_20X_02_CH1.tif - Uninjured+Ibu_20N_20X_02_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured+Ibu_30L_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured+Ibu_30L_20X_03_CH1.tif - Uninjured+Ibu_30L_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 61,
+      "randomizedName": "52963865-d1cc-4a78-b11f-8f581e2eb923",
+      "imageName": "Uninjured+Ibu_30L_20X_03_CH1.tif - Uninjured+Ibu_30L_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured+Ibu_36N_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured+Ibu_36N_20X_03_CH1.tif - Uninjured+Ibu_36N_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 65,
+      "randomizedName": "ddde2108-6ab9-4ecc-8747-578f17244185",
+      "imageName": "Uninjured+Ibu_36N_20X_03_CH1.tif - Uninjured+Ibu_36N_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured+Ibu+C_3B_20X_03_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured+Ibu+C_3B_20X_03_CH1.tif - Uninjured+Ibu+C_3B_20X_03_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 69,
+      "randomizedName": "2b16d5b6-59f5-4a1f-9e3c-cb1e30f05c02",
+      "imageName": "Uninjured+Ibu+C_3B_20X_03_CH1.tif - Uninjured+Ibu+C_3B_20X_03_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured+Ibu+C_4N_20X_01_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured+Ibu+C_4N_20X_01_CH1.tif - Uninjured+Ibu+C_4N_20X_01_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 73,
+      "randomizedName": "350878ab-3333-49fe-abf3-c29daf85af49",
+      "imageName": "Uninjured+Ibu+C_4N_20X_01_CH1.tif - Uninjured+Ibu+C_4N_20X_01_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Volumes/AM%20Drive/IBU_C_PCA_HISTO_ANALYSIS/Images/19637023/Uninjured+Ibu+C_38L_20X_01_CH1.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Uninjured+Ibu+C_38L_20X_01_CH1.tif - Uninjured+Ibu+C_38L_20X_01_CH1.tif #1",
+          "width": 960,
+          "height": 720,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 960,
+              "height": 720
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.75488,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 960,
+          "preferredTileHeight": 32
+        }
+      },
+      "entryID": 77,
+      "randomizedName": "161cff2f-816f-46d9-a067-1af5b24ac076",
+      "imageName": "Uninjured+Ibu+C_38L_20X_01_CH1.tif - Uninjured+Ibu+C_38L_20X_01_CH1.tif #1",
+      "metadata": {},
+      "tags": []
+    }
+  ]
+}
